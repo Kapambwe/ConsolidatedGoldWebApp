@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "CompanyApp.GoldWebApp",
   "resources": {
-    "hash": "sha256-5hQSc2niEoLEgGO93fbXZdui6wmbbAlMsFXKP7dMZT0=",
+    "hash": "sha256-sA3DH5VKXHsKelNgKCm9XOa6HfxhJm77JPibLZ0Ww18=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.beam5yns7w.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Forms.htcukg2u2z.wasm": "Microsoft.AspNetCore.Components.Forms.wasm",
@@ -61,7 +61,7 @@
       "System.Xml.XDocument.bh6q24w1sa.wasm": "System.Xml.XDocument.wasm",
       "System.m0fu6d0eya.wasm": "System.wasm",
       "System.Private.CoreLib.bz2bykjb72.wasm": "System.Private.CoreLib.wasm",
-      "CompanyApp.Component.Gold.Company.aaxzn34o5g.wasm": "CompanyApp.Component.Gold.Company.wasm",
+      "CompanyApp.Component.Gold.Company.o1h0onsg66.wasm": "CompanyApp.Component.Gold.Company.wasm",
       "CompanyApp.GoldWebApp.6fnolmusu1.wasm": "CompanyApp.GoldWebApp.wasm",
       "dotnet.js": "dotnet.js",
       "dotnet.native.9ih887ebfz.js": "dotnet.native.js",
@@ -146,7 +146,7 @@
       "System.Xml.Linq.qsgzs1hc1j.wasm": "sha256-yo+J3RWIIHIiwAhqsR9JizNkH/+hd3auB44RBmvvLoI=",
       "System.Xml.XDocument.bh6q24w1sa.wasm": "sha256-sUpLFuNZQPCWGlQhhlmQjvC+8foGtglJhLTZ0lvunDY=",
       "System.m0fu6d0eya.wasm": "sha256-hkGLo/MuT/FJ0Xf4XUL0D2VA4dZV532GHNB1JicxLko=",
-      "CompanyApp.Component.Gold.Company.aaxzn34o5g.wasm": "sha256-QjbuggzG8KMlEW42zojYQQVsWX70iBygS1ja0GdM99E=",
+      "CompanyApp.Component.Gold.Company.o1h0onsg66.wasm": "sha256-tBWsXbnCjLqfyWXpA24TMJG9eM0y7CtVDPyzi61KRLA=",
       "CompanyApp.GoldWebApp.6fnolmusu1.wasm": "sha256-bkaVAyxAyLz0XqUSIZHG0dvIZnE5JndTLbw4E+/ChJQ="
     }
   },
